@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=TowerNotes
+GenericName=Note Taking
+Comment=MarkDown note taking
+TryExec=tnotes
+Exec=tnotes %F
+Terminal=true
+Type=Application
+Keywords=Text;Notes;
+Icon=tnotes
+Categories=Utility;Notes;
+StartupNotify=false
+MimeType=text/english;text/plain;text/x-makefile;text/x-c++hdr;text/x-c++src;text/x-chdr;text/x-csrc;text/x-java;text/x-moc;text/x-pascal;text/x-tcl;text/x-tex;application/x-shellscript;text/x-c;text/x-c++;
